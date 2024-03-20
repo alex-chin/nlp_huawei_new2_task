@@ -52,7 +52,7 @@ You can download the dataset by following the [link](https://drive.google.com/dr
 Submissions are scored using F1-score:
 
 <p align="center" width="100%">
-    <img width="65%" src="images/f1.png">
+    <img width="50%" src="images/f1.png">
 </p>
 
 ## Submission File
